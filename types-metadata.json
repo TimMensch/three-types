@@ -1,0 +1,49 @@
+{
+    "name": "three",
+    "libraryName": "three.js",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "data": {
+        "authors": "Kon <http://phyzkit.net/>, Satoru Kimura <https://github.com/gyohk>, Florent Poujol <https://github.com/florentpoujol>, SereznoKot <https://github.com/SereznoKot>",
+        "dependencies": {
+            "webvr-api": "*"
+        },
+        "pathMappings": {},
+        "libraryMajorVersion": 0,
+        "libraryMinorVersion": 83,
+        "typeScriptVersion": "2.0",
+        "libraryName": "three.js",
+        "typingsPackageName": "three",
+        "projectName": "http://mrdoob.github.com/three.js/",
+        "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+        "globals": [
+            "Detector",
+            "THREE"
+        ],
+        "declaredModules": [
+            "three"
+        ],
+        "files": [
+            "detector.d.ts",
+            "index.d.ts",
+            "three-FirstPersonControls.d.ts",
+            "three-canvasrenderer.d.ts",
+            "three-copyshader.d.ts",
+            "three-css3drenderer.d.ts",
+            "three-editorcontrols.d.ts",
+            "three-effectcomposer.d.ts",
+            "three-maskpass.d.ts",
+            "three-orbitcontrols.d.ts",
+            "three-orthographictrackballcontrols.d.ts",
+            "three-projector.d.ts",
+            "three-renderpass.d.ts",
+            "three-shaderpass.d.ts",
+            "three-trackballcontrols.d.ts",
+            "three-transformcontrols.d.ts",
+            "three-vrcontrols.d.ts",
+            "three-vreffect.d.ts"
+        ],
+        "hasPackageJson": false,
+        "contentHash": "4df0aea9db2e057f14cf1de9b6eaf3e1619c800573747138b2c6a9c322258146"
+    },
+    "isLatest": true
+}
